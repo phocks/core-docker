@@ -2,7 +2,7 @@
 
 An (almost successful) attempt to make CoreMedia run in a Docker container on Mac.
 
-From: [https://hub.docker.com/r/phocks/core/](https://hub.docker.com/r/phocks/core/)
+[https://hub.docker.com/r/phocks/core/](https://hub.docker.com/r/phocks/core/)
 
 You need XQuartz installed.
 
